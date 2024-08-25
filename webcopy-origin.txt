@@ -1,0 +1,932 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=fallback
+File Name: C:\Downloaded Web Sites\preview.cruip.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=fallback);*,::before,::after{box-sizing:border-box;border-width:0;border-style:solid;border-color:
+File Name: C:\Downloaded Web Sites\preview.cruip.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\preview.cruip.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\preview.cruip.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\preview.cruip.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\preview.cruip.com\s\inter\v18\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://plausible.cruip.com/js/script.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\index.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/404.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\404.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/analytics.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\analytics.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/billing.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\billing.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/calendar.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\calendar.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/campaigns.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\campaigns.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/cart-2.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\cart-2.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/cart-3.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\cart-3.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/cart.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\cart.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/changelog.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\changelog.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/company-profile.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\company-profile.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-accordion.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-accordion.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-alert.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-alert.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-avatar.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-avatar.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-badge.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-badge.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-breadcrumb.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-breadcrumb.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-button.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-button.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-dropdown.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-dropdown.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-form.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-form.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-icons.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-icons.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-modal.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-modal.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-pagination.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-pagination.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-tabs.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-tabs.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/component-tooltip.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\component-tooltip.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/connected-apps.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\connected-apps.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/credit-cards.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\credit-cards.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/css/vendors/flatpickr.min.css
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\css\vendors\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://preview.cruip.com/mosaic/customers.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\customers.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/empty-state.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\empty-state.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/faqs.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\faqs.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/feed.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\feed.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/feedback.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\feedback.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/fintech.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\fintech.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/forum-post.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\forum-post.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/forum.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\forum.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/images/404-illustration-dark.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\404-illustration-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/404-illustration.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\404-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/announcement-icon.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\announcement-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-07.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-08.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-09.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-09.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-10.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-10.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-11.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-11.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-12.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-12.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-13.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-13.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-14.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-14.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-15.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-15.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-16.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-16.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-17.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-17.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-18.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-18.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-19.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-19.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-20.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-20.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-21.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-21.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-22.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-22.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-23.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-23.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-24.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-24.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-25.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-25.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-26.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-26.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-27.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-27.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-28.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-28.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-29.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-29.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-30.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-30.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-31.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-31.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/applications-image-32.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\applications-image-32.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/auth-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\auth-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/avatar-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/avatar-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/avatar-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/avatar-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\avatar-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/avatar-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\avatar-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/avatar-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\avatar-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/channel-01.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\channel-01.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/channel-02.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\channel-02.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/channel-03.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\channel-03.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/chat-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\chat-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/company-bg.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-01.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-02.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-03.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-05.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-05.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-06.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-06.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-07.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-07.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/company-icon-08.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\company-icon-08.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/feed-image-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\feed-image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/feed-image-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\feed-image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/group-avatar-01.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\group-avatar-01.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/group-avatar-02.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\group-avatar-02.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/group-avatar-03.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\group-avatar-03.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/group-avatar-04.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\group-avatar-04.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/icon-01.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\icon-01.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/icon-02.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\icon-02.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/icon-03.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\icon-03.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/inbox-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\inbox-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetup-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetup-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetup-photo-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetup-photo-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetup-photo-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetup-photo-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetup-photo-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetup-photo-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-07.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/meetups-thumb-08.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\meetups-thumb-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/modal-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\modal-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/onboarding-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\onboarding-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/pay-bg.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\pay-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/product-image.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\product-image.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/profile-bg.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\profile-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/related-product-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\related-product-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/related-product-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\related-product-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/related-product-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\related-product-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/shop-category-01.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\shop-category-01.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/shop-category-02.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\shop-category-02.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/shop-category-03.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\shop-category-03.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/shop-category-04.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\shop-category-04.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/task-image-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\task-image-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/task-image-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\task-image-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-01.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-01.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-02.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-02.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-03.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-03.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-04.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-04.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-05.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-05.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-06.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-06.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-07.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-07.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/transactions-image-08.svg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\transactions-image-08.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.cruip.com/mosaic/images/user-128-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-128-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-07.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-08.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-09.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-09.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-10.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-10.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-11.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-11.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-28-12.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-28-12.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-07.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-32-08.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-32-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-36-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-36-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-07.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-08.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-09.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-09.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-10.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-10.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-11.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-11.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-40-12.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-40-12.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-01.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-01.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-02.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-02.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-03.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-03.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-04.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-04.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-05.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-05.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-06.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-06.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-07.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-07.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-08.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-08.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-09.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-09.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-10.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-10.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-11.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-11.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-12.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-12.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-13.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-13.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-64-14.jpg
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-64-14.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.cruip.com/mosaic/images/user-avatar-32.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-avatar-32.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/images/user-avatar-80.png
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\images\user-avatar-80.png
+Content Type: image/png
+
+Uri: https://preview.cruip.com/mosaic/inbox.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\inbox.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/index.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\index.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/invoices.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\invoices.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/job-listing.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\job-listing.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/job-post.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\job-post.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/js/analytics-charts.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\analytics-charts.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/dashboard-charts.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\dashboard-charts.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/fintech-charts.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\fintech-charts.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/flatpickr-init.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\flatpickr-init.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/main.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\main.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/vendors/alpinejs.min.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\vendors\alpinejs.min.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/vendors/chart.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\vendors\chart.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/vendors/chartjs-adapter-moment.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\vendors\chartjs-adapter-moment.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/vendors/flatpickr.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\vendors\flatpickr.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/js/vendors/moment.js
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\js\vendors\moment.js
+Content Type: application/javascript
+
+Uri: https://preview.cruip.com/mosaic/meetups-post.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\meetups-post.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/meetups.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\meetups.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/messages.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\messages.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/notifications.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\notifications.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/onboarding-01.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\onboarding-01.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/onboarding-02.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\onboarding-02.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/onboarding-03.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\onboarding-03.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/onboarding-04.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\onboarding-04.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/orders.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\orders.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/pay.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\pay.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/plans.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\plans.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/product.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\product.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/profile.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\profile.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/reset-password.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\reset-password.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/roadmap.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\roadmap.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/settings.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\settings.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/shop-2.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\shop-2.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/shop.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\shop.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/signin.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\signin.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/signup.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\signup.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/style.css
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\style.css
+Content Type: text/css
+
+Uri: https://preview.cruip.com/mosaic/tasks-kanban.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\tasks-kanban.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/tasks-list.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\tasks-list.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/transaction-details.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\transaction-details.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/transactions.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\transactions.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/users-tabs.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\users-tabs.html.htm
+Content Type: text/html
+
+Uri: https://preview.cruip.com/mosaic/users-tiles.html
+File Name: C:\Downloaded Web Sites\preview.cruip.com\mosaic\users-tiles.html.htm
+Content Type: text/html
+
